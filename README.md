@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shreyas-16/NewsX-web-app">
-    <img src="images/android-chrome-192x192.png" alt="Logo" width="80" height="80">
+    <img src="public/android-chrome-192x192.png" alt="Logo" width="80" height="80">
   </a> 
   
   <h3 align="center">NewsX </h3>
