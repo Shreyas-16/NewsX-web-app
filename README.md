@@ -73,7 +73,11 @@
 <!-- ABOUT THE PROJECT -->
 ## Introduction
 
-[](https://drive.google.com/file/d/1xsMTCHAEvUpa0sn_D8p1nVV2s8SMk47T/view?usp=share_link)
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1xsMTCHAEvUpa0sn_D8p1nVV2s8SMk47T/view?usp=share_link" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+@REM [](https://drive.google.com/file/d/1xsMTCHAEvUpa0sn_D8p1nVV2s8SMk47T/view?usp=share_link)
 
 NewsX is React based Web application that provides real-time latest news from corners of the world. This App uses News API's developer version for fetching real-time news. App has various categories of news such as `business`, `entertainment`, `sports` etc, which can be accessed by clicking on navbar section.
 
