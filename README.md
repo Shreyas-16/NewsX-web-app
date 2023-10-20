@@ -5,6 +5,9 @@
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
+
+
+
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
@@ -73,11 +76,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Introduction
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1xsMTCHAEvUpa0sn_D8p1nVV2s8SMk47T/view?usp=share_link" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-@REM [](https://drive.google.com/file/d/1xsMTCHAEvUpa0sn_D8p1nVV2s8SMk47T/view?usp=share_link)
+
+https://github.com/Shreyas-16/NewsX-web-app/assets/72548251/00fd4e13-9adf-4440-82ac-b6ffc1eb7405
 
 NewsX is React based Web application that provides real-time latest news from corners of the world. This App uses News API's developer version for fetching real-time news. App has various categories of news such as `business`, `entertainment`, `sports` etc, which can be accessed by clicking on navbar section.
 
