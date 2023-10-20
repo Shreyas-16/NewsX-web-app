@@ -5,6 +5,9 @@
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
+
+
+
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
@@ -73,6 +76,13 @@
 <!-- ABOUT THE PROJECT -->
 ## Introduction
 
+<<<<<<< HEAD
+=======
+
+https://github.com/Shreyas-16/NewsX-web-app/assets/72548251/4c8a7c1f-810d-4668-ae90-7f2406996cb8
+
+
+>>>>>>> c3aba61110d5f5d235385ffa4dee7afe6bf868b7
 NewsX is React based Web application that provides real-time latest news from corners of the world. This App uses News API's developer version for fetching real-time news. App has various categories of news such as `business`, `entertainment`, `sports` etc, which can be accessed by clicking on navbar section.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
